@@ -42,6 +42,7 @@ services:
     depends_on:
       - "postgres"
 
+  # default setup at demo database which needs to be created
   graphql-engine:
     image: hasura/graphql-engine:v1.3.3
     ports:

@@ -1,8 +1,6 @@
 # DDD Demo - Employees
 This is the Employees section of DDD demo series. It contains the docker setup for following components
 
-
-
 ## DB
 - Simple Postgres DB named Employees
 

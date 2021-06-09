@@ -17,4 +17,3 @@ This is the Employees section of DDD demo series. It contains the docker setup f
 - Clone this repository on your local machine.
 - Launch the terminal application and navigate to `compose` folder
 - Run `docker compose up -d`
-
